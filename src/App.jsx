@@ -190,24 +190,22 @@ function App() {
           <h1>ABOUT ME</h1>
           <h2>WHO AM I</h2>
           <p>
-            Hello there! I'm Chris Art, a web developer and app designer with a
-            passion for creating
-            <br />
-            beautiful and functional digital experiences. With [Number] years of
-            experience in the industry, I've
-            <br />
-            had the pleasure of working on a variety of projects for clients
-            ranging from small startups to large corporations.
-            <br />
-            <br />
-            My approach to design is all about finding the perfect balance
-            between aesthetics and usability.
-            <br />
-            I believe that a great design should not only look good, but also
-            enhance the user's experience
-            <br />
-            and make their interaction with the product as seamless as possible.
-          </p>
+  Hello! I'm Chris Art, a fresh graduate and aspiring web developer with a
+  passion for creating
+  <br />
+  clean, functional, and user-friendly digital experiences. I have developed
+  several academic and personal projects
+  <br />
+  using modern web technologies, focusing on building responsive and efficient applications.
+  <br />
+  <br />
+  My approach to development is all about balancing design and functionality.
+  <br />
+  I believe that a well-built application should not only look good, but also
+  provide a smooth and intuitive user experience
+  <br />
+  for every user.
+</p>
 
           <div className="Acta1">
             <p>HIRE ME</p>
